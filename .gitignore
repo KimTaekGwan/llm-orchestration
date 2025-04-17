@@ -1,2 +1,16 @@
+!**/.gitkeep
+
 node_modules
-database
+database/openwebui/*
+database/pipelines/*
+
+!database/pipelines/dify_pipeline_local.py
+
+
+
+# macOS
+.DS_Store
+
+
+
+
